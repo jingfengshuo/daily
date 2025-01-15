@@ -180,3 +180,4 @@
 "www.robinlovelace.net/index.xml","2025-01-15"
 "statmodeling.stat.columbia.edu/feed/","2025-01-15"
 "andrewgelman.com/feed/","2025-01-15"
+"www.jfsay.com/feed/,"2025-01-15"
